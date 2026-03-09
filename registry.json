@@ -152,7 +152,7 @@
     {
       "id": "custom-commands",
       "name": "Custom Commands",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "official": true,
       "author": "Noctalia Team",
       "description": "Define and run custom shell commands from the launcher",
@@ -162,7 +162,7 @@
       "tags": [
         "Launcher"
       ],
-      "lastUpdated": "2026-03-09T00:54:12-04:00"
+      "lastUpdated": "2026-03-09T19:02:46+01:00"
     },
     {
       "id": "custom-sticker",
