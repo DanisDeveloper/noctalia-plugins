@@ -1,0 +1,22 @@
+{
+  "id": "keyboard-layout-widget",
+  "name": "Keyboard layout widget",
+  "version": "1.0.0",
+  "author": "DanisDeveloper",
+  "description": "Simple widget for overview current keyboard layout in bar.",
+  "repository": "https://github.com/noctalia-dev/noctalia-plugins",
+  "tags": [
+    "Bar"
+  ],
+  "license": "MIT",
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "dependencies": {
+    "plugins": []
+  },
+  "metadata": {
+    "defaultSettings": {
+    }
+  }
+}
